@@ -1,0 +1,5 @@
+2020/02/22 18:35:32 [emerg] 283156#273752: host not found in "%forePort%" of the "listen" directive in D:\studio\workspace_zero\beg\URLAdmin\nginx-1.13.5/conf/nginx.conf:35
+2020/03/18 11:49:44 [emerg] 51280#4260: host not found in "%forePort%" of the "listen" directive in D:\studio\workspace_zero\beg\URLAdmin\nginx-1.13.5/conf/nginx.conf:35
+2020/03/18 11:49:49 [emerg] 11476#31188: host not found in "%forePort%" of the "listen" directive in D:\studio\workspace_zero\beg\URLAdmin\nginx-1.13.5/conf/nginx.conf:35
+2020/03/18 11:57:43 [emerg] 31112#25324: host not found in "%forePort%" of the "listen" directive in D:\studio\workspace_zero\beg\URLAdmin\nginx-1.13.5/conf/nginx.conf:35
+2020/03/19 18:34:44 [emerg] 103460#77072: host not found in "%forePort%" of the "listen" directive in D:\studio\workspace_zero\beg\URLAdmin\nginx-1.13.5/conf/nginx.conf:35

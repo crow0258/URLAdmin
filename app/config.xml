@@ -1,0 +1,20 @@
+<config url="http://192.168.1.7:8081/111">
+    <categroy title="公司常用">
+        <url text="首页" href="https://www.google.com/" desc="公司地址"></url>
+        <url text="财务" href="https://www.google.com/" desc="ip:192.168.1.1,port:1120"></url>
+        <url text="考勤" href="https://www.google.com/" desc="考勤地址"></url>
+    </categroy>
+    <categroy title="研发专用">
+        <url text="帮助文档" href="https://www.google.com/" desc="研发手册文档"></url>
+        <url text="测试地址" href="https://www.google.com/" desc="测试 account:admin,password:admin"></url>
+        <url text="gitlab地址" href="https://www.google.com/" desc="外网ip:gitlab.com...11"></url>
+        <url text="Jenkins部署地址" href="https://www.google.com/" desc="账户名:test,密码:test"></url>
+        <url text="Docker 内容库" href="https://www.google.com/" desc="请使用自己账户登录，并上传..."></url>
+        <url text="Npm 内容库" href="https://www.google.com/" desc="npm.zero.com  npm地址库..."></url>
+    </categroy>
+    <categroy title="常用工具">
+        <url text="www.google.com" href="https://www.google.com/" desc="google 搜索"></url>
+        <url text="www.github.com" href="https://www.google.com/" desc="大型在线交友平台"></url>
+        <url text="www.naught.com" href="https://www.google.com/" desc="naught从0开始,491529736@qq.com"></url>
+    </categroy>
+</config>
